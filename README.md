@@ -1,6 +1,6 @@
 
 
-#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/pereslusiano/bbystealer/releases/tag/builder) - [💡 Features](https://github.com/pereslusiano/bby-stealer#features) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/pereslusiano/bbystealer/releases/tag/builder) - [💡 Features](https://github.com/pereslusiano/bbystealer) 
 
 ### Authors
 - stanley#0511
